@@ -1,0 +1,11 @@
+Name: Ojo Mabel Adenike
+
+Matric Number: 250000022
+
+Machine Learning Algorithm Used: SVM
+
+Model persistence method used: Joblib
+
+Live URL of the hosted application: https://winecultivar-project-mabelojo-250000022.onrender.com
+
+GitHub repository link: https://github.com/MabelAdenike-Ojo/WineCultivar_Project_MabelOjo_250000022
